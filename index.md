@@ -18,8 +18,4 @@ This site is my digital journal — a space to share thoughts, tools, and all th
 
 ---
 
-<p align="center">
-  <img src="/assets/images/files.jpg" alt="AI Files" width="400">
-</p>
-
 > Stay tuned — I’m just getting started. 🚀
