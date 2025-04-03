@@ -3,3 +3,14 @@ description: My personal journal for exploring and learning with AI.
 theme: jekyll-theme-minimal
 
 permalink: /:categories/:title/
+# Add this below the "theme:" line
+theme: jekyll-theme-hacker
+permalink: /:categories/:title/
+
+# Add this 👇
+sass:
+  style: compressed
+
+# Tell the theme to include our custom stylesheet
+include:
+  - assets/css/custom.css
