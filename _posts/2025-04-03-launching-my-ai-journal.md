@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "My First AI Tool Review"
+title: "Entry #1 – Launching My AI Journal"
 date: 2025-04-03 12:00:00 +0000
-categories: ai-tools
+categories: ai-journal
 ---
 
 Today I officially launched my public AI learning journal — and it feels awesome!  
