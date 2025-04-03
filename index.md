@@ -3,10 +3,6 @@ layout: default
 title: Home
 ---
 
-<p align="center">
-  <img src="/assets/images/robot.jpg" alt="AI Robot" width="600">
-</p>
-
 # 👋 Welcome to *Grow & Learn with AI*
 
 Since early 2023, I’ve been diving into the world of AI — experimenting, building, and learning out loud.
