@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Entry #1 – Launching My AI Journal"
 date: 2025-04-03 12:00:00 +0000
 categories: ai-journal
