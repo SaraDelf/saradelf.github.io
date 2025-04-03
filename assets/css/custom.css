@@ -1,26 +1,30 @@
+/* Base styles */
 body {
-  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+  font-size: 16px;
   line-height: 1.7;
-  color: #222;
   background-color: #f9f9f9;
+  color: #222;
   margin: 0;
   padding: 0;
 }
 
+/* Centered container */
 .container {
   max-width: 800px;
   margin: 0 auto;
   padding: 2rem;
-  background: #fff;
+  background-color: #fff;
 }
 
+/* Headings */
 h1, h2, h3 {
-  font-weight: 600;
   color: #1a1a1a;
   margin-top: 2rem;
   margin-bottom: 1rem;
 }
 
+/* Links */
 a {
   color: #0077cc;
   text-decoration: none;
@@ -30,8 +34,9 @@ a:hover {
   text-decoration: underline;
 }
 
+/* Horizontal rule */
 hr {
   border: none;
-  border-top: 1px solid #ccc;
+  border-top: 1px solid #ddd;
   margin: 2rem 0;
 }
